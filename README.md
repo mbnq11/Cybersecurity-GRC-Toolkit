@@ -3,7 +3,6 @@
 A practical, customizable Excel workbook designed to support cybersecurity Governance, Risk, and Compliance activities and hands-on learning.
 
 ## Features
-
 31 worksheets covering:
 - Framework references and regulatory obligations
 - Control libraries, assessments, and evidence tracking
